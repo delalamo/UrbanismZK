@@ -10,9 +10,8 @@ date-modified: last-modified
 
 # Details
 
-## Misallocation mechanism (mismatch)
-
 In a meta-review of over 100 case studies on the effects of rent control, "nearly all" found a **negative** effect on residential mobility, with essentially no positive findings [@Kholodilin2024]. Only two studies are noted as finding statistically insignificant effects [@LambieHanson2008; @Linneman1987].
+
 # See Also
 
 - [Reduced residential mobility can impair labor-market adjustment](reduced-mobility-impairs-labor-markets.qmd)

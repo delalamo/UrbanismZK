@@ -16,6 +16,7 @@ The discount reflects buyer expectations that:
 - Evicting the sitting tenant may be legally difficult or impossible
 - Rental income is constrained by existing tenancy agreements
 - The property's full market value cannot be realized until the tenant vacates
+
 # See Also
 
 - [Rent control reduces residential mobility](rent-control-reduces-residential-mobility.qmd)

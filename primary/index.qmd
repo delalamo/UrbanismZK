@@ -2,8 +2,6 @@
 title: "Primary Notes"
 ---
 
-# Primary Notes
-
 Primary notes are declarative statements with structured content. Each note represents a specific claim or concept.
 
 ## All Primary Notes
@@ -17,5 +15,4 @@ Primary notes are declarative statements with structured content. Each note repr
 - [Rent control can misallocate housing and reduce residential mobility](rent-control-reduces-residential-mobility.qmd)
 - [Reduced residential mobility can impair labor-market adjustment](reduced-mobility-impairs-labor-markets.qmd)
 - [Rent control can reduce tax revenues via landlord profits and property tax bases](rent-control-reduces-tax-revenues.qmd)
-- [Housing shortages under rent control can delay marriage](housing-shortages-delay-marriage.qmd)
 - [Rent control can generate black-market side payments](rent-control-generates-black-market-payments.qmd)

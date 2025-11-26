@@ -6,6 +6,50 @@ title: "Personal Knowledge Management System"
 
 This is a Quarto-based personal knowledge management system for organizing interconnected notes, literature, and data.
 
+## Recently Added Topics
+
+```{r}
+#| echo: false
+#| output: asis
+
+# Get all .qmd files in aggregators/ directory (excluding index.qmd)
+files <- list.files("primary", pattern = "\\.qmd$", full.names = TRUE)
+files <- files[!grepl("index\\.qmd$", files)]
+
+# Get file modification times
+file_info <- data.frame(
+  path = files,
+  mtime = file.mtime(files),
+  stringsAsFactors = FALSE
+)
+
+# Sort by modification time (most recent first) and take top 10
+file_info <- file_info[order(file_info$mtime, decreasing = TRUE), ]
+file_info <- head(file_info, 10)
+
+# Read titles from YAML frontmatter and create links
+for (i in 1:nrow(file_info)) {
+  file_path <- file_info$path[i]
+
+  # Read the file to extract title
+  lines <- readLines(file_path, warn = FALSE)
+  yaml_end <- which(lines == "---")[2]
+  yaml_lines <- lines[2:(yaml_end-1)]
+  title_line <- yaml_lines[grepl("^title:", yaml_lines)]
+
+  if (length(title_line) > 0) {
+    # Extract title (remove 'title: ' and quotes)
+    title <- sub("^title:\\s*[\"']?(.+?)[\"']?\\s*$", "\\1", title_line)
+    title <- gsub('^"(.*)"$', '\\1', title)
+    title <- gsub("^'(.*)'$", '\\1', title)
+
+    # Create markdown link
+    file_name <- basename(file_path)
+    cat(sprintf("- [%s](primary/%s)\n", title, file_name))
+  }
+}
+```
+
 ## Structure
 
 - **[Primary Notes](primary/index.qmd)**: Declarative notes with structured content (e.g., "X causes Y")

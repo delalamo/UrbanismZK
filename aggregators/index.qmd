@@ -2,8 +2,6 @@
 title: "Aggregator Notes"
 ---
 
-# Aggregator Notes
-
 Aggregator notes collect and organize all primary notes related to a specific topic.
 
 ## All Aggregators

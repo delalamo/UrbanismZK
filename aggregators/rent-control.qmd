@@ -28,7 +28,6 @@ Rent control policies regulate the price of rental housing, typically by capping
 ## Fiscal and Demographic Effects
 
 - [Rent control can reduce tax revenues via landlord profits and property tax bases](../primary/rent-control-reduces-tax-revenues.qmd)
-- [Housing shortages under rent control can delay marriage](../primary/housing-shortages-delay-marriage.qmd)
 
 ## Market Distortions
 

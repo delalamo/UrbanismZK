@@ -6,29 +6,11 @@ date-modified: last-modified
 
 # Summary
 
-[Rent control](../aggregators/rent-control.qmd) was found to be strongly associated with **deterioration in housing quality** by a meta-review of over 100 case studies [@Kholodilin2024]. Lower regulated revenue leads to reduced maintenance and refurbishment.
+[Rent control](../aggregators/rent-control.qmd) was found to be strongly associated with **deterioration in housing quality** by a meta-review of over 100 case studies [@Kholodilin2024]. Lower regulated revenue leads to reduced maintenance and refurbishment, due to expectations of lower revenue.
 
 # Details
 
-## Empirical direction (published studies)
-
-The author of the meta-review, Kholodilin, states that published studies are "almost unanimous" that rent control reduces housing quality, with notable exceptions by Gilderbloom [@Gilderbloom1986] and Gilderbloom & Markham [@GilderbloomMarkham1996], which argue moderate rent control does not impact quality [@Kholodilin2024].
-
-## Mechanism (incentives and "wearing out")
-
-Kholodilin explains the core mechanism: rent control erodes landlords' revenues, reducing incentives to invest in maintenance and refurbishment, so properties are allowed to "wear out" until real value aligns with low real rent [@Kholodilin2024].
-
-## Design mitigation (theoretical)
-
-A theoretical study by Lind [@Lind2015] is cited by Kholodilin as showing quality need not suffer if allowed rent increases are **pegged to improvements** made by landlords [@Kholodilin2024]. This creates a direct financial incentive for maintenance and upgrades.
-
-## Unpublished studies
-
-When including unpublished work, Kholodilin reports mixed results (about half negative, half no effects) [@Kholodilin2024].
-
-# Figures
-
-*No figures included in this note.*
+The author of the meta-review, Kholodilin, states that published studies are "almost unanimous" that rent control reduces housing quality, with notable exceptions by Gilderbloom [@Gilderbloom1986] and Gilderbloom & Markham [@GilderbloomMarkham1996], which argue moderate rent control does not impact quality [@Kholodilin2024]. A theoretical study by Lind [@Lind2015] shows quality need not suffer if allowed rent increases are **pegged to improvements** made by landlords. 
 
 # See Also
 
