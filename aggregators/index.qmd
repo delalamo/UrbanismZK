@@ -1,0 +1,11 @@
+---
+title: "Aggregator Notes"
+---
+
+# Aggregator Notes
+
+Aggregator notes collect and organize all primary notes related to a specific topic.
+
+## All Aggregators
+
+- [Rent Control](rent-control.qmd) - Empirical evidence on rent control's effects across housing markets, property values, mobility, labor markets, tax revenues, and demographic outcomes

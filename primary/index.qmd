@@ -1,0 +1,21 @@
+---
+title: "Primary Notes"
+---
+
+# Primary Notes
+
+Primary notes are declarative statements with structured content. Each note represents a specific claim or concept.
+
+## All Primary Notes
+
+### Rent Control
+
+- [Rent control compresses controlled rents but often pushes up uncontrolled rents](rent-control-compresses-controlled-rents-but-raises-uncontrolled-rents.qmd)
+- [Rent control is commonly associated with reduced new construction and supply](rent-control-reduces-new-construction.qmd)
+- [Rent control tends to reduce housing quality unless rules peg allowed rent increases to improvements](rent-control-reduces-housing-quality.qmd)
+- [Tenant-occupied dwellings may trade at a discount under strong tenant protections](tenant-occupied-dwelling-price-discount.qmd)
+- [Rent control can misallocate housing and reduce residential mobility](rent-control-reduces-residential-mobility.qmd)
+- [Reduced residential mobility can impair labor-market adjustment](reduced-mobility-impairs-labor-markets.qmd)
+- [Rent control can reduce tax revenues via landlord profits and property tax bases](rent-control-reduces-tax-revenues.qmd)
+- [Housing shortages under rent control can delay marriage](housing-shortages-delay-marriage.qmd)
+- [Rent control can generate black-market side payments](rent-control-generates-black-market-payments.qmd)

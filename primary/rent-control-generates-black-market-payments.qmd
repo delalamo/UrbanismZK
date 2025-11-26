@@ -1,0 +1,14 @@
+---
+title: "Rent control can generate black-market side payments"
+date: 2025-11-26
+date-modified: last-modified
+---
+
+# Summary
+
+When [rent-controlled](../aggregators/rent-control.qmd) rents create excess demand, informal payments may emerge as a rationing device. One example is "key money", a nonrefundable deposit paid upon moving in that was documented in Cairo's rent-controlled housing market [@Malpezzi1998].
+
+# References
+
+::: {#refs}
+:::

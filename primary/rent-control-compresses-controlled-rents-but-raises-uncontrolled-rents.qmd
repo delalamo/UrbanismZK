@@ -1,0 +1,22 @@
+---
+title: "Rent control compresses controlled rents but often pushes up uncontrolled rents"
+date: 2025-11-26
+date-modified: last-modified
+---
+
+# Summary
+
+In a meta-study, [rent control](../aggregators/rent-control.qmd) was found to be consistently associated with lower rents in the regulated ("controlled") segment but higher rents in the unregulated ("uncontrolled") segment [@Kholodilin2024].
+
+# Details
+
+Kholodilin found that **36 of 41 published studies** show a statistically significant *negative* effect of rent control on controlled rents (i.e., regulated rents are lower than they otherwise would be), ranging from **−57% to −1%**. For rents in the uncontrolled segment, about **65% of published studies** find a statistically significant *positive* effect (uncontrolled rents rise), **~26%** find no statistically significant effect, and **~8%** find a negative effect, with a range of **−2% to +14.8%** [@Kholodilin2024].
+
+# See Also
+
+- [Rent control is associated with reduced new construction](rent-control-reduces-new-construction.qmd)
+
+# References
+
+::: {#refs}
+:::

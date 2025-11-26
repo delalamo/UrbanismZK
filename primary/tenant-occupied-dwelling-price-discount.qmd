@@ -1,0 +1,26 @@
+---
+title: "Tenant-occupied dwellings trade at a discount under strong tenant protections"
+date: 2025-11-26
+date-modified: last-modified
+---
+
+# Summary
+
+[Rent-controlled](../aggregators/rent-control.qmd) tenant-occupied dwellings trade at a discount [@Kholodilin2024]. The penalty has been estimated to be as low at 27%.
+
+# Details
+
+The discount reflects buyer expectations that:
+
+- The property cannot be immediately occupied or renovated
+- Evicting the sitting tenant may be legally difficult or impossible
+- Rental income is constrained by existing tenancy agreements
+- The property's full market value cannot be realized until the tenant vacates
+# See Also
+
+- [Rent control reduces residential mobility](rent-control-reduces-residential-mobility.qmd)
+
+# References
+
+::: {#refs}
+:::

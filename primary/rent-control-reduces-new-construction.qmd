@@ -1,0 +1,18 @@
+---
+title: "Rent control is commonly associated with reduced new construction and supply"
+date: 2025-11-26
+date-modified: last-modified
+---
+
+# Summary
+
+A meta-review of over 100 case studies found that [rent control](../aggregators/rent-control.qmd) is **often** linked to reductions in new residential construction and housing supply, with about two-thirds finding a statistically significant negative impact [@Kholodilin2024]. This could be tied to [lower property values for rent-controlled building](tenant-occupied-dwelling-price-discount.qmd).
+
+# See Also
+
+- [Rent control compresses controlled rents but raises uncontrolled rents](rent-control-compresses-controlled-rents-but-raises-uncontrolled-rents.qmd)
+
+# References
+
+::: {#refs}
+:::

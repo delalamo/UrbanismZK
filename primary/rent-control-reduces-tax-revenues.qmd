@@ -1,0 +1,18 @@
+---
+title: "Rent control reduces tax revenues due to lower landlord profits and lower property tax bases"
+date: 2025-11-26
+date-modified: last-modified
+---
+
+# Summary
+
+[Rent control](../aggregators/rent-control.qmd) reduces tax revenue due to the [lower sticker price of apartments](tenant-occupied-dwelling-price-discount.qmd) and the lower profit margin of landlords [@Kholodilin2024].
+
+# See Also
+
+- [Rent control compresses controlled rents](rent-control-compresses-controlled-rents-but-raises-uncontrolled-rents.qmd)
+
+# References
+
+::: {#refs}
+:::

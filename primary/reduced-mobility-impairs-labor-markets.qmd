@@ -1,0 +1,14 @@
+---
+title: "Reduced residential mobility can impair labor-market adjustment"
+date: 2025-11-26
+date-modified: last-modified
+---
+
+# Summary
+
+[Rent control](../aggregators/rent-control.qmd) makes workers less responsive to geographic shifts in job opportunities, reducing labor mobility [@Kholodilin2024]. This is related to how [rent control reduces residential mobility](rent-control-reduces-residential-mobility.qmd).
+
+# References
+
+::: {#refs}
+:::

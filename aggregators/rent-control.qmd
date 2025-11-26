@@ -1,0 +1,55 @@
+---
+title: "Rent Control"
+date: 2025-11-26
+date-modified: last-modified
+---
+
+# Overview
+
+Rent control policies regulate the price of rental housing, typically by capping rent increases or setting maximum allowable rents. This aggregator collects all primary notes examining the empirical evidence on rent control's effects across multiple domains: housing markets, property values, mobility, labor markets, tax revenues, and demographic outcomes.
+
+# Related Primary Notes
+
+## Direct Market Effects
+
+- [Rent control compresses controlled rents but often pushes up uncontrolled rents](../primary/rent-control-compresses-controlled-rents-but-raises-uncontrolled-rents.qmd)
+- [Rent control is commonly associated with reduced new construction and supply](../primary/rent-control-reduces-new-construction.qmd)
+- [Rent control tends to reduce housing quality unless rules peg allowed rent increases to improvements](../primary/rent-control-reduces-housing-quality.qmd)
+
+## Property Value Effects
+
+- [Tenant-occupied dwellings may trade at a discount under strong tenant protections](../primary/tenant-occupied-dwelling-price-discount.qmd)
+
+## Mobility and Housing Allocation
+
+- [Rent control can misallocate housing and reduce residential mobility](../primary/rent-control-reduces-residential-mobility.qmd)
+- [Reduced residential mobility can impair labor-market adjustment](../primary/reduced-mobility-impairs-labor-markets.qmd)
+
+## Fiscal and Demographic Effects
+
+- [Rent control can reduce tax revenues via landlord profits and property tax bases](../primary/rent-control-reduces-tax-revenues.qmd)
+- [Housing shortages under rent control can delay marriage](../primary/housing-shortages-delay-marriage.qmd)
+
+## Market Distortions
+
+- [Rent control can generate black-market side payments](../primary/rent-control-generates-black-market-payments.qmd)
+
+# Key Insights
+
+The empirical literature on rent control reveals several robust findings:
+
+1. **Rent effects are segmented**: Controlled rents consistently fall, while uncontrolled rents often rise, with net effects depending on the distribution of units across segments.
+
+2. **Supply-side responses**: Most studies find negative effects on new construction, though policy design (particularly exemptions for new buildings) significantly moderates these effects.
+
+3. **Quality deterioration**: Near-unanimous evidence shows housing quality declines under rent control, driven by reduced maintenance incentives.
+
+4. **Mobility lock-in**: Strong empirical consensus that rent control reduces residential mobility, creating housing misallocation and spillover effects to labor markets.
+
+5. **Context-dependent effects**: Homeownership effects are mixed and highly sensitive to local market conditions and policy specifics.
+
+6. **Unintended consequences**: Rent control can generate black-market payments, reduce tax revenues, and affect demographic decisions like marriage timing.
+
+# See Also
+
+*Related aggregator notes will be linked here as they are created.*

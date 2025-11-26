@@ -1,0 +1,24 @@
+---
+title: "Rent control leads to misallocated housing and reduced residential mobility"
+date: 2025-11-26
+date-modified: last-modified
+---
+
+# Summary
+
+[Rent control](../aggregators/rent-control.qmd) creates excess demand and "lock-in," leading to misallocated housing (units mismatched to household needs) and reduced mobility [@Kholodilin2024]. Reduced mobility can arise both from rent advantages (fear of losing a bargain) and from longer tenure stability (including eviction protections).
+
+# Details
+
+## Misallocation mechanism (mismatch)
+
+In a meta-review of over 100 case studies on the effects of rent control, "nearly all" found a **negative** effect on residential mobility, with essentially no positive findings [@Kholodilin2024]. Only two studies are noted as finding statistically insignificant effects [@LambieHanson2008; @Linneman1987].
+# See Also
+
+- [Reduced residential mobility can impair labor-market adjustment](reduced-mobility-impairs-labor-markets.qmd)
+- [Tenant-occupied dwellings trade at a discount](tenant-occupied-dwelling-price-discount.qmd)
+
+# References
+
+::: {#refs}
+:::

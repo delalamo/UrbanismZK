@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Personal Knowledge Management"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Primary Notes"
+        file: primary/index.qmd
+      - text: "Aggregators"
+        file: aggregators/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    link-citations: true
+    citation-style: numeric
+    citations-hover: true
+
+bibliography: bibliography.bib
+csl: https://www.zotero.org/styles/nature

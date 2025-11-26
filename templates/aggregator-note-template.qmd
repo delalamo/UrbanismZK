@@ -1,0 +1,29 @@
+---
+title: "Topic Name"
+date: last-modified
+---
+
+# Overview
+
+Brief introduction to this topic and why these notes are grouped together.
+
+# Related Primary Notes
+
+## Subtopic 1
+
+- [Primary Note 1](../primary/note-1.qmd): Brief description
+- [Primary Note 2](../primary/note-2.qmd): Brief description
+
+## Subtopic 2
+
+- [Primary Note 3](../primary/note-3.qmd): Brief description
+- [Primary Note 4](../primary/note-4.qmd): Brief description
+
+# Key Insights
+
+Summary of key patterns or insights that emerge from examining these notes together.
+
+# See Also
+
+- [Related Aggregator 1](aggregator-1.qmd)
+- [Related Aggregator 2](aggregator-2.qmd)

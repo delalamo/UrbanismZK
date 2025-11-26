@@ -1,0 +1,28 @@
+---
+title: "Housing shortages under rent control can delay marriage"
+date: 2025-11-26
+date-modified: last-modified
+---
+
+# Summary
+
+[Rent control](../aggregators/rent-control.qmd)–related shortages can affect demographic decisions, such as delaying marriage if young people cannot secure independent housing.
+
+# Details
+
+This effect is likely to be:
+
+- Stronger in cultures where marriage is closely tied to establishing independent housing
+- More pronounced when rent control creates severe housing shortages
+- Amplified when combined with other barriers to household formation (e.g., high unemployment, limited credit)
+
+The marriage delay effect represents a spillover from housing policy to demographic patterns, potentially affecting fertility rates.
+
+# See Also
+
+- [Rent control reduces residential mobility](rent-control-reduces-residential-mobility.qmd)
+
+# References
+
+::: {#refs}
+:::

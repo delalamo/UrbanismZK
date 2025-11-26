@@ -1,0 +1,29 @@
+/* Custom styles for PKM system */
+
+/* Improve readability */
+body {
+  max-width: 900px;
+  margin: auto;
+}
+
+/* Style for cross-references and links */
+a {
+  color: #2780e3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Section styling */
+h2 {
+  margin-top: 2em;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.3em;
+}
+
+/* Citation styling */
+.citation {
+  font-size: 0.9em;
+}

@@ -1,0 +1,42 @@
+---
+title: "Title of Primary Note"
+date: YYYY-MM-DD
+date-modified: last-modified
+---
+
+# Summary
+
+A concise summary of the main claim or concept. Use @citationkey to cite sources (e.g., @Smith2024), which will appear as superscript numbers [1].
+
+# Details
+
+Detailed explanation of the concept, including:
+
+- Key mechanisms @citationkey
+- Evidence and reasoning @citationkey
+- Conditions and context
+- Limitations or caveats
+
+When citing sources, use the @ symbol followed by the citation key from bibliography.bib. Multiple citations in sequence will appear as [1-3] and separate citations as [1, 5].
+
+# Figures
+
+```{r}
+#| label: fig-example
+#| fig-cap: "Caption for the figure"
+#| echo: false
+
+# Code for generating figures
+# Can load data from data/ directory
+```
+
+# See Also
+
+- [Related Note 1](note-1.qmd)
+- [Related Note 2](note-2.qmd)
+- [Aggregator: Topic](../aggregators/topic.qmd)
+
+# References
+
+::: {#refs}
+:::

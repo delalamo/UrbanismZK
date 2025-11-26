@@ -1,0 +1,17 @@
+---
+title: "Personal Knowledge Management System"
+---
+
+# Welcome
+
+This is a Quarto-based personal knowledge management system for organizing interconnected notes, literature, and data.
+
+## Structure
+
+- **[Primary Notes](primary/index.qmd)**: Declarative notes with structured content (e.g., "X causes Y")
+- **[Aggregator Notes](aggregators/index.qmd)**: Collections of notes organized by topic
+- **Data**: Raw datasets for visualization and analysis
+
+## Getting Started
+
+Browse the primary notes to explore individual concepts, or check the aggregator notes to see thematic collections.
