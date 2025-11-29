@@ -16,3 +16,10 @@ Primary notes are declarative statements with structured content. Each note repr
 - [Reduced residential mobility can impair labor-market adjustment](reduced-mobility-impairs-labor-markets.qmd)
 - [Rent control can reduce tax revenues via landlord profits and property tax bases](rent-control-reduces-tax-revenues.qmd)
 - [Rent control can generate black-market side payments](rent-control-generates-black-market-payments.qmd)
+
+### Move-Out Chains and Vacancy Chains
+
+- [New market-rate housing generates substantial local vacancies through move-out chains](new-housing-generates-vacancy-chains.qmd)
+- [Income-restricted units and market-rate units generate comparable vacancy chains](income-restricted-and-market-rate-comparable-chains.qmd)
+- [Vacancy chains spread across broad geography](vacancy-chains-spread-geographically.qmd)
+- [Vacated homes in move-out chains are substantially older than new units](vacancy-chains-free-older-housing.qmd)

@@ -7,3 +7,4 @@ Aggregator notes collect and organize all primary notes related to a specific to
 ## All Aggregators
 
 - [Rent Control](rent-control.qmd) - Empirical evidence on rent control's effects across housing markets, property values, mobility, labor markets, tax revenues, and demographic outcomes
+- [Move-Out Chains and Vacancy Chains](move-out-chains.qmd) - Evidence on how new housing construction generates cascading moves throughout local housing markets

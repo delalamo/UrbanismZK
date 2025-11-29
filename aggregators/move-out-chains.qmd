@@ -1,0 +1,40 @@
+---
+title: "Move-Out Chains and Vacancy Chains"
+date: 2025-11-28
+date-modified: last-modified
+---
+
+# Overview
+
+Move-out chains (also called vacancy chains) occur when new housing construction induces a cascade of moves throughout a local housing market. When someone moves into a new unit, they vacate their previous home, which may then be occupied by another household who also vacates their prior residence, creating a chain of housing opportunities. This aggregator collects all primary notes examining the empirical evidence on vacancy chains and housing filtering.
+
+# Related Primary Notes
+
+## Vacancy Generation and Scale
+
+- [New market-rate housing generates substantial local vacancies through move-out chains](../primary/new-housing-generates-vacancy-chains.qmd)
+- [Income-restricted units and market-rate units generate comparable vacancy chains](../primary/income-restricted-and-market-rate-comparable-chains.qmd)
+
+## Geographic and Spatial Patterns
+
+- [Vacancy chains spread across broad geography](../primary/vacancy-chains-spread-geographically.qmd)
+
+## Housing Characteristics
+
+- [Vacated homes in move-out chains are substantially older than new units](../primary/vacancy-chains-free-older-housing.qmd)
+
+# Key Insights
+
+The empirical literature on vacancy chains reveals several important findings:
+
+1. **Substantial multiplier effects**: New housing construction can generate vacancy chains that exceed the number of units built, with multiplier effects varying by local market conditions and data coverage.
+
+2. **Comparable effects across subsidy types**: Both market-rate and income-restricted units generate significant vacancy chains, though income-restricted units may have lower vacancy rates per unit due to new household formation.
+
+3. **Geographic dispersion**: Vacancy chains spread across significant distances, demonstrating that new construction can affect housing availability well beyond the immediate neighborhood.
+
+4. **Housing stock filtering**: Vacancy chains tend to free up older, existing housing stock, contributing to the overall supply of available housing across different price points and vintages.
+
+# See Also
+
+*Related aggregator notes will be linked here as they are created.*

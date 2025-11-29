@@ -1,0 +1,18 @@
+---
+title: "Vacancy chains spread across broad geography"
+date: 2025-11-28
+date-modified: last-modified
+---
+
+# Summary
+
+[Vacancy chains](../aggregators/move-out-chains.qmd) from a single condo tower can spread across a wide area.
+
+# Details
+
+In a case study of a 512-unit condominium tower in Honolulu, vacancy chains averaged 8.7 km, with some vacancy chains including movers from the continental US [@FangKimTyndall2025].
+
+# References
+
+::: {#refs}
+:::

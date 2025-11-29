@@ -1,0 +1,18 @@
+---
+title: "Vacated homes in move-out chains are substantially older than new units"
+date: 2025-11-28
+date-modified: last-modified
+---
+
+# Summary
+
+Homes vacated during [move-out chains](../aggregators/move-out-chains.qmd) tend to be substantially older than new units.
+
+# Details
+
+In a case study of a 512-unit condominium tower in Honolulu, vacated homes had average construction year of 1985 (Round 1) and 1987 (Round 2) [@FangKimTyndall2025]. Income-restricted chains involved even older units: 1979 for Round 1. Given that Honolulu's median housing unit was constructed in 1977, the pattern demonstrates new units freeing up significantly older stock.
+
+# References
+
+::: {#refs}
+:::

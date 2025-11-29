@@ -11,6 +11,7 @@ A meta-review of over 100 case studies found that [rent control](../aggregators/
 # See Also
 
 - [Rent control compresses controlled rents but raises uncontrolled rents](rent-control-compresses-controlled-rents-but-raises-uncontrolled-rents.qmd)
+- [New market-rate housing generates substantial local vacancies through move-out chains](new-housing-generates-vacancy-chains.qmd)
 
 # References
 

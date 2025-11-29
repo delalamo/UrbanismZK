@@ -1,0 +1,18 @@
+---
+title: "Income-restricted units and market-rate units generate comparable vacancy chains"
+date: 2025-11-28
+date-modified: last-modified
+---
+
+# Summary
+
+Both market-rate and below-market-rate housing generate comparable [move-out chains](../aggregators/move-out-chains.qmd).
+
+# Details
+
+In a case study of a 512-unit condominium tower in Honolulu, both market-rate units (202 units) and income-restricted units (310 units) generated substantial vacancy chains [@FangKimTyndall2025]. Market-rate units produced 0.43 vacancies per unit while income-restricted units produced 0.29 per unit. However, when vacancies actually occurred, both unit types reached similar price points in the lower-cost housing market.
+
+# References
+
+::: {#refs}
+:::

@@ -16,6 +16,7 @@ In a meta-review of over 100 case studies on the effects of rent control, "nearl
 
 - [Reduced residential mobility can impair labor-market adjustment](reduced-mobility-impairs-labor-markets.qmd)
 - [Tenant-occupied dwellings trade at a discount](tenant-occupied-dwelling-price-discount.qmd)
+- [New market-rate housing generates substantial local vacancies through move-out chains](new-housing-generates-vacancy-chains.qmd)
 
 # References
 

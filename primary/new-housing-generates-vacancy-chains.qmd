@@ -1,0 +1,23 @@
+---
+title: "New market-rate housing generates substantial local vacancies through move-out chains"
+date: 2025-11-28
+date-modified: last-modified
+---
+
+# Summary
+
+New market-rate housing generates substantial local vacancies through [move-out chains](../aggregators/move-out-chains.qmd).
+
+# Details
+
+In a case study of a 512-unit condominium tower in Honolulu, researchers identified at least 180 verified local vacancies within three years of completion, with scaled estimates suggesting over 500 total induced vacancies [@FangKimTyndall2025].
+
+# See Also
+
+- [Rent control is commonly associated with reduced new construction and supply](rent-control-reduces-new-construction.qmd)
+- [Rent control can misallocate housing and reduce residential mobility](rent-control-reduces-residential-mobility.qmd)
+
+# References
+
+::: {#refs}
+:::
